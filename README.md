@@ -96,10 +96,10 @@ A collection of Python applications demonstrating programming concepts and probl
 https://sajad-portfolio.netlify.app
 
 💻 GitHub:
-https://github.com/your-github-username
+https://github.com/your-github-sajad-ullah
 
 💼 LinkedIn:
-https://linkedin.com/in/your-linkedin-username
+https://linkedin.com/in/your-linkedin-sajad-ullah
 
 ---
 
